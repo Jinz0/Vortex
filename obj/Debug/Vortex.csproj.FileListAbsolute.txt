@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Shark\Vortex\bin\Debug\Vortex.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Shark\Vortex\obj\Debug\Vortex.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Shark\Vortex\bin\Debug\Vortex.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Shark\Vortex\obj\Debug\Vortex.exe
